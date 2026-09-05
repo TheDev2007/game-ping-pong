@@ -14,7 +14,7 @@ A Mini Ping-Pong Game that I made for my senior year school competition. Feature
 - Main Menu
 
 ## Controls
-**Player 1 ( Also for Singleplayer ):**
+**Player 1 (Also for Singleplayer):**
 <br>
 Up Arrow & Down Arrow
 <br>
@@ -40,7 +40,7 @@ python --version
    cd ping-pong-game
    \`\`\`
 
-2. Install any required dependencies (if using Pygame):
+2. Install required dependencies (Pygame):
    \`\`\`bash
    pip install pygame
    \`\`\`
