@@ -8,13 +8,13 @@ A Mini Ping-Pong Game that I made for my senior year school competition. Feature
 - Main Menu
 
 ## Controls
-**Player 1**
+**Player 1 ( Also for Singleplayer )**
+<br>
+Up Arrow & Down Arrow
+**Player 2**
 <br>
 W = Up , S = Down
 <br>
-**Player 2**
-<br>
-Up Arrow & Down Arrow
 
 ## Tech Stack
 - Python
