@@ -1,2 +1,7 @@
-# game-ping-pong
-A Mini Ping-Pong Game developed usign Pygame
+# Mini Ping-Pong Game 
+A Mini Ping-Pong Game that I made for my senior year school competition. Features Multi-player and Single-player modes wiht score tracking and High Score.
+
+## Features
+- **Single Player**: Play against automated paddle AI
+- **Local Multiplayer**: Play Head to Head against your friends on the same keyboard
+- **
