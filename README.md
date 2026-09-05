@@ -9,8 +9,10 @@ A Mini Ping-Pong Game that I made for my senior year school competition. Feature
 
 ## Controls
 **Player 1**
+<br>
 W = Up , S = Down
 <br>
 **Player 2**
+<br>
 Up Arrow & Down Arrow
 
