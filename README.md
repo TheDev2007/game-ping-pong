@@ -4,4 +4,12 @@ A Mini Ping-Pong Game that I made for my senior year school competition. Feature
 ## Features
 - **Single Player**: Play against automated paddle AI
 - **Local Multiplayer**: Play Head to Head against your friends on the same keyboard
-- **
+- Score tracking
+- Main Menu
+
+## Controls
+**Player 1**
+W = Up , S = Down
+**Player 2**
+Up Arrow & Down Arrow
+
