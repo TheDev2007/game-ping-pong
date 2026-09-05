@@ -29,21 +29,24 @@ W = Up , S = Down
 ## How to Run:
 ### Prerequisites
 Make sure you have Python 3.8+ installed on your system. You can check your version by running:
-\`\`\`bash
+``` bash
 python --version
+```
 
 ### Installation
 1. Clone this repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/TheDev2007/ping-pong-game.git
    cd ping-pong-game
+   ```
 
 2. Install required dependencies (Pygame):
-   \`\`\`bash
+   ```bash
    pip install pygame
+   ```
 
 ### Running the Game
 Launch the game directly with:
-\`\`\`bash
+```bash
 python GAME.py
-\`\`\`
+```
