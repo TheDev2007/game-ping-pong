@@ -10,6 +10,7 @@ A Mini Ping-Pong Game that I made for my senior year school competition. Feature
 ## Controls
 **Player 1**
 W = Up , S = Down
+<br>
 **Player 2**
 Up Arrow & Down Arrow
 
