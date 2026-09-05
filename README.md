@@ -16,3 +16,8 @@ W = Up , S = Down
 <br>
 Up Arrow & Down Arrow
 
+## Tech Stack
+- Python
+- Pygame
+
+## How to Run:
