@@ -1,5 +1,9 @@
-# Mini Ping-Pong Game 
+# Arcade Ping-Pong Game 
 A Mini Ping-Pong Game that I made for my senior year school competition. Features Multi-player and Single-player modes wiht score tracking and High Score.
+<br>
+<div>
+  <img src="Game Preview 1" alt=" Game Preview 1" width = 320 >
+</div>
 
 ## Features
 - **Single Player**: Play against automated paddle AI
